@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#fff</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="colorbule">#02bae3</color>
+
+
+    <color name="lightWhite">#f5f5f5</color>
+    <color name="white">#fff</color>
+    <color name="black">#000</color>
+
+    <!-- Dashboard Colors -->
+
+    <!-- Body and bakground Colors -->
+    <color name="home_bakground">#f2f5f8</color>
+    <color name="banner_bacground">#F1E9CE</color>
+    <color name="banner_background_light">#56F1E9CE</color>
+
+    <!-- Card Colors-->
+    <color name="cad1">#d4cbe5</color>
+    <color name="cad2">#7adccf</color>
+    <color name="cad3">#f7c59f</color>
+    <color name="cad4">#b8d7f5</color>
+</resources>
