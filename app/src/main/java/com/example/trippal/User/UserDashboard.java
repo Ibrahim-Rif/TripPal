@@ -143,7 +143,7 @@ public class UserDashboard extends AppCompatActivity implements NavigationView.O
             case R.id.nav_all_categories:
                 startActivity( new Intent(getApplicationContext(),AllCategories.class));
                 break;
-            case R.id.nav_map:startActivity( new Intent( this, MapActivity.class ) );
+            case R.id.nav_map:startActivity( new Intent( this, MapsActivity2.class ) );
                 break;
             case R.id.nav_track:
                 startActivity( new Intent( this, MapActivity.class ) );
